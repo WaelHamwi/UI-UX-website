@@ -1,4 +1,4 @@
-bash -c "echo '# GTR
+# GTR
 
 A modern React project setup using Vite, Tailwind CSS, GSAP, and Three.js.
 
