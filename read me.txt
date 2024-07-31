@@ -1,0 +1,5 @@
+npm create vite@latest GTR -- --template react
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install gsap @gsap/react
+npm install three @react-three/fiber @react-three/drei
